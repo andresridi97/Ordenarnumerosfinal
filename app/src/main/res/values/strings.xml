@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Ordenarnumeros</string>
-    <string name="titulo">Ordenamiento</string>
+    <string name="app_name">Ordenar numeros</string>
+    <string name="titulo">Ordenamiento de números</string>
     <string name="funcion"> Ingresa 20 números decimales de máximo 4 digitos y obten la ordenación de menor a mayor</string>
     <string name="Agrega">Ingresar</string>
     <string name="Ingresa">Ingresa números</string>
