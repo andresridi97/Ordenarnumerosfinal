@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sort numbers</string>
+    <string name="titulo">ordering</string>
+    <string name="funcion">Enter 20 decimal numbers of maximum 4 digits and get the order from least to greatest</string>
+    <string name="Agrega">enter number</string>
+    <string name="Ingresa">Enter numbers</string>
+    <string name="fn">Enter number</string>
+    <string name="Resultado">Results</string>
+    <string name="Res">Sort numbers:</string>
+    <string name="Invalido">The number must be 4 digits</string>
+    <string name="numarr">Numbers you entered:</string>
+</resources>
