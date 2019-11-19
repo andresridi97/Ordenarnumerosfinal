@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else
                 {
-                    Toast.makeText(MainActivity.this, "@strings/fn", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, getApplicationContext().getString(R.string.fn), Toast.LENGTH_SHORT).show();
                 }
             }
 
