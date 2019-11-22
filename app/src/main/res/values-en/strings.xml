@@ -10,4 +10,6 @@
     <string name="Res">Sort numbers:</string>
     <string name="Invalido">The number must be 4 digits</string>
     <string name="numarr">Numbers you entered:</string>
+    <string name="Reintentar">Retry</string>
+    <string name="Salir">Exit</string>
 </resources>

@@ -9,4 +9,6 @@
     <string name="Res">Números ordenados:</string>
     <string name="Invalido">El número debe ser de 4 dígitos</string>
     <string name="numarr">Números que ingresaste:</string>
+    <string name="Reintentar">Reintentar</string>
+    <string name="Salir">Salir</string>
 </resources>

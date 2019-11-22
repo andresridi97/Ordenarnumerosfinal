@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
     Button button1;
     TextView tv1;
     TextView tv2;
+    Button button2;
+    Button button3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -29,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         button1 = findViewById(R.id.button);
         tv1 = (TextView)findViewById(R.id.textView4);
         tv2 = (TextView)findViewById(R.id.textView5);
+        button2 = findViewById(R.id.button2);
+        button3 = findViewById(R.id.button3);
 
         button1.setOnClickListener(new View.OnClickListener()
         {
@@ -75,6 +79,23 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
 
+
+
+        });
+
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                tv1.setText("");
+                tv2.setText("");
+            }
+        });
+
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
+            }
         });
     }
 
